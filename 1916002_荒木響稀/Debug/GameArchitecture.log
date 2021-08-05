@@ -1,0 +1,12 @@
+﻿  Trail.cpp
+C:\Users\81809\Desktop\GameArchitecturek\Trail.cpp(59,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\Desktop\GameArchitecturek\Trail.cpp(59,6): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\Desktop\GameArchitecturek\Trail.cpp(58,12): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\Desktop\GameArchitecturek\Trail.cpp(58,6): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\Desktop\GameArchitecturek\Trail.cpp(57,12): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\Desktop\GameArchitecturek\Trail.cpp(57,6): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\Desktop\GameArchitecturek\Trail.cpp(56,12): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\Desktop\GameArchitecturek\Trail.cpp(56,6): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\Desktop\GameArchitecturek\Trail.cpp(55,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\Desktop\GameArchitecturek\Trail.cpp(55,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  GameArchitecture.vcxproj -> C:\Users\81809\Desktop\GameArchitecturek\Debug\GameArchitecture.exe

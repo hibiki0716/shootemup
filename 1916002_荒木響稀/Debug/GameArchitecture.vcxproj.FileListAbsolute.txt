@@ -1,0 +1,6 @@
+C:\Users\kaneko\Desktop\GameArchitecture - コピー\GameArchitecture - コピー\Debug\GameArchitecture.exe
+C:\Users\81809\Desktop\GameArchitecture\Debug\GameArchitecture.exe
+C:\Users\81809\Desktop\GameArchitecture\Debug\GameArchitecture.pdb
+C:\Users\kaneko\Desktop\GameArchitecture\Debug\GameArchitecture.exe
+C:\Users\81809\Desktop\GameArchitecturek\Debug\GameArchitecture.exe
+C:\Users\81809\Desktop\GameArchitecturek\Debug\GameArchitecture.pdb

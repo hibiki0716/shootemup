@@ -1,0 +1,14 @@
+﻿  Main.cpp
+C:\Users\Owner\Desktop\GameArchitecturek - コピー\Main.cpp(99,24): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Owner\Desktop\GameArchitecturek - コピー\Main.cpp(99,21): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Owner\Desktop\GameArchitecturek - コピー\Main.cpp(100,19): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Owner\Desktop\GameArchitecturek - コピー\Main.cpp(100,16): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Owner\Desktop\GameArchitecturek - コピー\Main.cpp(254,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Owner\Desktop\GameArchitecturek - コピー\Main.cpp(254,21): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Owner\Desktop\GameArchitecturek - コピー\Main.cpp(257,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Owner\Desktop\GameArchitecturek - コピー\Main.cpp(257,21): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Owner\Desktop\GameArchitecturek - コピー\Main.cpp(145,79): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
+C:\Users\Owner\Desktop\GameArchitecturek - コピー\Main.cpp(148,77): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
+C:\Users\Owner\Desktop\GameArchitecturek - コピー\Main.cpp(44,6): warning C4101: 'runImage': ローカル変数は 1 度も使われていません。
+C:\Users\Owner\Desktop\GameArchitecturek - コピー\Main.cpp(263): warning C4715: 'WinMain': 値を返さないコントロール パスがあります。
+  GameArchitecture.vcxproj -> C:\Users\Owner\Desktop\GameArchitecturek - コピー\x64\Debug\GameArchitecture.exe
